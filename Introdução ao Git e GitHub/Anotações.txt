@@ -1,1 +1,19 @@
-O Git Bash é um terminal estendido para otimizar o uso do Git.
+Anotações:
+
+1- Git e o GitHub são essenciais para um bom desenvolvimento do trabalho 
+na área de programação.
+2- Compartilhar os meus desafios de projetos e de códigos com estudantes, 
+empresas e profissionais que trabalham com desenvolvimentos de sistemas 
+é realmente um passo importantíssimo para a minha ascensão profissional, 
+sobretudo nesse momento de transição de carreira.
+3- Seguir o passo a passo de forma criativa é fundamental para se obter o 
+resultado esperado.
+
+Informações importantes:
+git clone;
+cd;
+git status;
+git add . ou git add -A;
+git commit -m;
+git push origin main;
+F5.
